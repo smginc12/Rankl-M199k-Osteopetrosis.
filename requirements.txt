@@ -1,0 +1,8 @@
+biopython
+openmm
+pdbfixer
+MDAnalysis
+py3Dmol
+pyrosetta-installer
+numpy
+matplotlib
